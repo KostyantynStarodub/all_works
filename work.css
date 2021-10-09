@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+h1{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 60px;
+}
+body{
+    background-color: bisque;
+}
+a{
+    text-decoration: none;
+}
+table{
+    height: 300px;
+    width: 900px;
+    margin: auto;
+}
+td:hover {
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+    font-family: 'Arvo', serif;
+    transition: all 2s;
+    background-color: coral;
+}
