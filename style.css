@@ -4,6 +4,7 @@
 h1{
     font-family: 'Stick No Bills', sans-serif;
     font-size: 60px;
+    text-align: center;
 }
 body{
     background-color: bisque;
@@ -23,4 +24,7 @@ td:hover {
     font-family: 'Arvo', serif;
     transition: all 2s;
     background-color: coral;
+}
+td{
+    text-align: center;
 }
